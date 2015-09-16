@@ -4,6 +4,7 @@ color:red;
 h2{
   color:Crimson;
   border:5px solid DeepPink;
+  box-sizing: border-box;
   text-align:center;
 }
 div{
@@ -17,5 +18,5 @@ div{
 	background-color:teal;
 }
 .blue{
-	background-color:DeepPink;
+	background-color:DarkGray;
 }
