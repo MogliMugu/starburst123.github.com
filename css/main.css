@@ -2,24 +2,24 @@ body{
 	background-color:DarkSlateGray;
 }
 p{
-color:red;
+color:black;
 }
 h2{
   color:DarkGray;
-  border:5px solid DeepPink;
+  border:5px solid #1BAFE0;
   box-sizing: border-box;
   text-align:center;
 }
 div{
-  background-color:orange;
+  background-color:#6FC6E3;
 }
 .red {
-	background-color: yellow;
+	background-color: #B3D7E3;
 }
 
 #rogue {
-	background-color:teal;
+	background-color:#A7C7D1;
 }
 .blue{
-	background-color:blue;
+	background-color:#8AA3AB;
 }
