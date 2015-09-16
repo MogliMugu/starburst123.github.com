@@ -1,8 +1,11 @@
+body{
+	background-color:DarkSlateGray;
+}
 p{
 color:red;
 }
 h2{
-  color:Crimson;
+  color:DarkGray;
   border:5px solid DeepPink;
   box-sizing: border-box;
   text-align:center;
@@ -18,5 +21,5 @@ div{
 	background-color:teal;
 }
 .blue{
-	background-color:DarkGray;
+	background-color:blue;
 }
