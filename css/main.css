@@ -4,6 +4,7 @@ color:red;
 h2{
   color:Crimson;
   border:5px solid DeepPink;
+  text-align:center;
 }
 div{
   background-color:orange;
@@ -14,4 +15,7 @@ div{
 
 #rogue {
 	background-color:teal;
+}
+.blue{
+	background-color:DeepPink;
 }
